@@ -1,0 +1,76 @@
+{
+ "source": {
+  "canvas": {
+   "width": 1080,
+   "height": 1080
+  },
+  "elements": [
+   {
+    "id": "bg",
+    "type": "image",
+    "asset_id": "solstice_bg_gradient.png",
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 1080,
+    "z_index": 0,
+    "fit": "cover"
+   },
+   {
+    "id": "headline",
+    "type": "text",
+    "content": "Refresh your afternoon",
+    "x": 80,
+    "y": 120,
+    "width": 560,
+    "height": 260,
+    "z_index": 3,
+    "font_family": "Solstice Serif",
+    "font_size": 84,
+    "color": "rgba(255,255,255,1)",
+    "text_align": "left",
+    "font_weight": "bold"
+   },
+   {
+    "id": "body",
+    "type": "text",
+    "content": "Light, floral and never too sweet.",
+    "x": 80,
+    "y": 420,
+    "width": 520,
+    "height": 120,
+    "z_index": 3,
+    "font_family": "Solstice Sans",
+    "font_size": 34,
+    "color": "rgba(255,255,255,0.85)",
+    "text_align": "left"
+   },
+   {
+    "id": "product",
+    "type": "image",
+    "asset_id": "solstice_bottle.png",
+    "x": 640,
+    "y": 200,
+    "width": 380,
+    "height": 640,
+    "z_index": 2,
+    "fit": "contain"
+   },
+   {
+    "id": "logo",
+    "type": "image",
+    "asset_id": "solstice_logo_lockup.png",
+    "x": 80,
+    "y": 900,
+    "width": 300,
+    "height": 100,
+    "z_index": 3,
+    "fit": "contain"
+   }
+  ]
+ },
+ "target_canvas": {
+  "width": 1080,
+  "height": 1080
+ }
+}

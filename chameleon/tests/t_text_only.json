@@ -1,0 +1,111 @@
+{
+ "source": {
+  "canvas": {
+   "width": 1080,
+   "height": 1350
+  },
+  "elements": [
+   {
+    "id": "bg",
+    "type": "image",
+    "asset_id": "solstice_bg_gradient.png",
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 1350,
+    "z_index": 0,
+    "fit": "cover"
+   },
+   {
+    "id": "t1",
+    "type": "text",
+    "content": "Supercalifragilisticexpialidocious Savings",
+    "x": 90,
+    "y": 100,
+    "width": 900,
+    "height": 260,
+    "z_index": 3,
+    "font_family": "Solstice Serif",
+    "font_size": 80,
+    "color": "rgba(255,255,255,1)",
+    "text_align": "center",
+    "font_weight": "bold"
+   },
+   {
+    "id": "t2",
+    "type": "text",
+    "content": "Limited time only",
+    "x": 90,
+    "y": 400,
+    "width": 900,
+    "height": 80,
+    "z_index": 3,
+    "font_family": "Solstice Sans",
+    "font_size": 44,
+    "color": "rgba(255,255,255,1)",
+    "text_align": "center"
+   },
+   {
+    "id": "t3",
+    "type": "text",
+    "content": "Terms and conditions apply. Offer valid while supplies last in participating locations.",
+    "x": 90,
+    "y": 520,
+    "width": 900,
+    "height": 140,
+    "z_index": 3,
+    "font_family": "Solstice Sans",
+    "font_size": 28,
+    "color": "rgba(255,255,255,0.7)",
+    "text_align": "center"
+   },
+   {
+    "id": "t4",
+    "type": "text",
+    "content": "solstice.com/summer",
+    "x": 90,
+    "y": 700,
+    "width": 900,
+    "height": 60,
+    "z_index": 3,
+    "font_family": "Solstice Sans",
+    "font_size": 36,
+    "color": "rgba(240,180,60,1)",
+    "text_align": "center",
+    "font_weight": "bold"
+   },
+   {
+    "id": "t5",
+    "type": "text",
+    "content": "Follow us",
+    "x": 90,
+    "y": 800,
+    "width": 900,
+    "height": 50,
+    "z_index": 3,
+    "font_family": "Solstice Sans",
+    "font_size": 30,
+    "color": "rgba(255,255,255,1)",
+    "text_align": "center"
+   },
+   {
+    "id": "t6",
+    "type": "text",
+    "content": "@solstice",
+    "x": 90,
+    "y": 860,
+    "width": 900,
+    "height": 50,
+    "z_index": 3,
+    "font_family": "Solstice Sans",
+    "font_size": 30,
+    "color": "rgba(255,255,255,1)",
+    "text_align": "center"
+   }
+  ]
+ },
+ "target_canvas": {
+  "width": 1080,
+  "height": 1080
+ }
+}
